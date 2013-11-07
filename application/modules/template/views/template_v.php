@@ -8,9 +8,10 @@
 		<div id="header">
 			<?php $this -> load -> view('header_v'); ?>
 		</div>
-		<!--Load Content-->
-		<?php $this -> load -> view($content_view); ?>
-
+		<div id="content">
+			<!--Load Content-->
+			<?php $this -> load -> view($content_view); ?>
+		</div>
 		<!--Load footer-->
 
 		<div id="footer">
