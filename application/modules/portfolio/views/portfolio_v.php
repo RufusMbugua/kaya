@@ -10,7 +10,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -20,7 +20,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -30,7 +30,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -41,7 +41,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -51,7 +51,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -64,7 +64,7 @@
 
 <div class="row tile-row ">
 	<div class="col-md-3 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -74,7 +74,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -84,7 +84,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -94,7 +94,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -104,7 +104,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -114,7 +114,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -127,7 +127,7 @@
 
 <div class="row tile-row ">
 	<div class="col-md-3 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -137,7 +137,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -147,7 +147,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -157,7 +157,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -167,7 +167,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -177,7 +177,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -199,7 +199,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -209,7 +209,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -219,7 +219,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -230,7 +230,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -240,7 +240,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -253,7 +253,7 @@
 
 <div class="row tile-row ">
 	<div class="col-md-3 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -263,7 +263,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -273,7 +273,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -283,7 +283,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -293,7 +293,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -303,7 +303,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -316,7 +316,7 @@
 
 <div class="row tile-row ">
 	<div class="col-md-3 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -326,7 +326,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -336,7 +336,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -346,7 +346,7 @@
 		</div>
 	</div>
 	<div class="col-md-2 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -356,7 +356,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
@@ -366,7 +366,7 @@
 		</div>
 	</div>
 	<div class="col-md-1 tile">
-		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" />
+		<div class="tile-content"><img src="<?php echo base_url(); ?>assets/images/art1.png" class="img-responsive"/>
 		</div>
 		<div class="tile-footer">
 			<i class="fa fa-thumbs-o-up"></i><i class="fa fa-thumbs-o-down"></i>Votes ()
