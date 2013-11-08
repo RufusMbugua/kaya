@@ -418,6 +418,7 @@ legend[Attributes Style] {
 .tile-content {
 	border: 1px solid #aaa;
 	height: 80%;
+	overflow:hidden;
 }
 .tile-footer {
 	height: 19%;
@@ -447,7 +448,7 @@ cursor:hand;
  */
 .user{
 float:right;
-font:1.2em;		
+font:1em;		
 }
 .user:hover{
 text-decoration:underline;
